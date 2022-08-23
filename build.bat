@@ -1,4 +1,4 @@
-set root=C:\Users\enmso\anaconda3
+set root=C:\Users\%USERNAME%\anaconda3
 call %root%\Scripts\activate.bat %root%
 
 call conda activate youtube-to-mp3-downloader
