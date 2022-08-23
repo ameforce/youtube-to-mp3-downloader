@@ -1,0 +1,10 @@
+#Pycharm Template
+/.idea
+/__pycache__
+/lib
+
+# Pyinstaller Template
+/build
+/dist
+/*.exe
+/*.spec
